@@ -1,53 +1,50 @@
-# JAIS-6.7B Chat Benchmark Results on Arabic-MMLU
+# JAIS-6.7B Chat on Arabic-MMLU Benchmark
 
-## 模型介绍
-- **模型**: [JAIS-6.7B Chat](https://huggingface.co/inceptionai/jais-family-6p7b-chat)  
-- **规模**: 6.7B 参数  
-- **类型**: Causal LM (Chat 优化版本，支持阿拉伯语与英语)  
-- **评测框架**: EleutherAI `lm-eval-harness`  
-- **运行环境**: NVIDIA A100 80GB, batch size = 1, fp16  
-
-## 数据集介绍
-- **Arabic-MMLU**: 翻译自 MMLU (Massive Multitask Language Understanding) 的阿拉伯语版  
-- **领域**: 人文、社会科学、STEM、语言、常识等  
-- **任务形式**: 多项选择 (multiple-choice QA)  
-- **指标**: Accuracy (acc)
-
----
-
-## 总体结果
-| Group            | Accuracy |
-|------------------|----------|
-| 全部 (Overall)   | **56.2%** |
-
----
-
-## 分组结果
-| Group            | Accuracy |
-|------------------|----------|
-| Humanities       | 57.9%    |
-| Language         | 54.3%    |
-| Other            | 61.4%    |
-| Social Sciences  | 55.3%    |
-| STEM             | 52.0%    |
-
----
-
-## 详细科目结果（部分展示）
-| Subject                          | Accuracy |
-|----------------------------------|----------|
-| History (High School)            | 46.5%    |
-| Islamic Studies                  | 75.7%    |
-| Arabic Language (Primary School) | 62.3%    |
-| General Knowledge                | 58.8%    |
-| Economics (University)           | 49.0%    |
-| Political Science (University)   | 72.4%    |
-| Biology (High School)            | 42.2%    |
-| Natural Science (Primary School) | 80.4%    |
-
----
-
-## 总结
-JAIS-6.7B Chat 在 **Arabic-MMLU** 上总体达到了 **56.2%** 的准确率，在 **宗教/伊斯兰学科 (75.7%)** 和 **小学自然科学 (80.4%)** 上表现较好，而在 **历史** 和 **生物学** 方面表现相对较弱。  
-这说明模型在某些阿拉伯语教育领域具有较强的知识覆盖，但在科学学科上仍有提升空间。
-
+| Task / Subject                                | Metric | Accuracy | StdErr |
+|-----------------------------------------------|--------|----------|--------|
+| **arabicmmlu (overall)**                      | acc    | 0.5618   | 0.0040 |
+| **Humanities**                                | acc    | 0.5797   | 0.0078 |
+| History (High School)                         | acc    | 0.4645   | 0.0181 |
+| History (Middle School)                       | acc    | 0.6035   | 0.0484 |
+| History (Primary School)                      | acc    | 0.6275   | 0.0410 |
+| Islamic Studies                               | acc    | 0.5446   | 0.0197 |
+| Islamic Studies (High School)                 | acc    | 0.5569   | 0.0276 |
+| Islamic Studies (Middle School)               | acc    | 0.6729   | 0.0305 |
+| Islamic Studies (Primary School)              | acc    | 0.7578   | 0.0310 |
+| Law (Professional)                            | acc    | 0.2643   | 0.0249 |
+| Philosophy (High School)                      | acc    | 0.5641   | 0.0804 |
+| **Language**                                  | acc    | 0.5425   | 0.0120 |
+| Arabic Language (General)                     | acc    | 0.6023   | 0.0193 |
+| Arabic Language (Grammar)                     | acc    | 0.4822   | 0.0266 |
+| Arabic Language (High School)                 | acc    | 0.3692   | 0.0245 |
+| Arabic Language (Middle School)               | acc    | 0.6667   | 0.0925 |
+| Arabic Language (Primary School)              | acc    | 0.6230   | 0.0306 |
+| **Other**                                     | acc    | 0.6139   | 0.0090 |
+| Driving Test                                  | acc    | 0.6139   | 0.0081 |
+| **Social Science**                            | acc    | 0.5534   | 0.0082 |
+| General Knowledge                             | acc    | 0.5880   | 0.0161 |
+| General Knowledge (Middle School)             | acc    | 0.6395   | 0.0367 |
+| General Knowledge (Primary School)            | acc    | 0.6728   | 0.0370 |
+| Management (University)                       | acc    | 0.6400   | 0.0558 |
+| Accounting (University)                       | acc    | 0.4865   | 0.0585 |
+| Civics (High School)                          | acc    | 0.4806   | 0.0535 |
+| Civics (Middle School)                        | acc    | 0.4873   | 0.0310 |
+| Economics (High School)                       | acc    | 0.5417   | 0.0263 |
+| Economics (Middle School)                     | acc    | 0.7126   | 0.0482 |
+| Economics (University)                        | acc    | 0.4901   | 0.0489 |
+| Geography (High School)                       | acc    | 0.4615   | 0.0125 |
+| Geography (Middle School)                     | acc    | 0.6103   | 0.0296 |
+| Geography (Primary School)                    | acc    | 0.6316   | 0.0645 |
+| Political Science (University)                | acc    | 0.5333   | 0.0345 |
+| Social Science (Middle School)                | acc    | 0.5062   | 0.0323 |
+| Social Science (Primary School)               | acc    | 0.7234   | 0.0169 |
+| **STEM**                                      | acc    | 0.5202   | 0.0085 |
+| Biology (High School)                         | acc    | 0.4216   | 0.0132 |
+| Computer Science (High School)                | acc    | 0.5326   | 0.0390 |
+| Computer Science (Middle School)              | acc    | 0.6148   | 0.0762 |
+| Computer Science (Primary School)             | acc    | 0.6421   | 0.0349 |
+| Computer Science (University)                 | acc    | 0.5625   | 0.0625 |
+| Math (Primary School)                         | acc    | 0.5232   | 0.0247 |
+| Natural Science (Middle School)               | acc    | 0.7149   | 0.0291 |
+| Natural Science (Primary School)              | acc    | 0.8036   | 0.0217 |
+| Physics (High School)                         | acc    | 0.3608   | 0.0301 |
