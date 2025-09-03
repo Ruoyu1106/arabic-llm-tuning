@@ -1,0 +1,31 @@
+{
+  "total": 3482,
+  "calib_n": 200,
+  "models": [
+    {
+      "model": "inceptionai/jais-family-6p7b-chat",
+      "accuracy": 0.9333716255025847,
+      "flipped": true
+    },
+    {
+      "model": "tiiuae/Falcon3-7B-Instruct",
+      "accuracy": 0.988799540493969,
+      "flipped": false
+    },
+    {
+      "model": "omarwaleed523/qwen3-8b-arabic-multitask",
+      "accuracy": 0.9836300976450316,
+      "flipped": false
+    },
+    {
+      "model": "ALLaM-AI/ALLaM-7B-Instruct-preview",
+      "accuracy": 0.4778862722573234,
+      "flipped": false
+    },
+    {
+      "model": "silma-ai/SILMA-9B-Instruct-v1.0",
+      "accuracy": 0.7926479035037335,
+      "flipped": false
+    }
+  ]
+}
