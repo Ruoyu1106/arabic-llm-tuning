@@ -1,0 +1,61 @@
+{
+  "model": "tiiuae/Falcon3-7B-Instruct",
+  "level": 3,
+  "support": 7286,
+  "accuracy": 0.3582212462256382,
+  "pred_dist": {
+    "1": 2314,
+    "3": 3925,
+    "2": 1047
+  },
+  "confusion_matrix": {
+    "1": {
+      "1": 1313,
+      "3": 1612,
+      "2": 679
+    },
+    "2": {
+      "1": 550,
+      "2": 267,
+      "3": 1283
+    },
+    "3": {
+      "3": 1030,
+      "2": 101,
+      "1": 451
+    }
+  },
+  "group_field": "Text_Class",
+  "by_group": {
+    "Foundational": {
+      "n": 2735,
+      "acc": 0.3612
+    },
+    "Specialized": {
+      "n": 2276,
+      "acc": 0.33
+    },
+    "Advanced": {
+      "n": 2275,
+      "acc": 0.3829
+    }
+  },
+  "by_len": {
+    "short": {
+      "n": 2478,
+      "acc": 0.4274
+    },
+    "medium": {
+      "n": 2400,
+      "acc": 0.245
+    },
+    "long": {
+      "n": 2408,
+      "acc": 0.3999
+    }
+  },
+  "wc_cuts": {
+    "short<= ": 7,
+    "medium<= ": 16
+  }
+}

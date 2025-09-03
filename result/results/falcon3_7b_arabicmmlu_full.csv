@@ -1,0 +1,47 @@
+Task,Accuracy,StdErr
+arabicmmlu,0.4376,0.0040
+Humanities,0.4573,0.0080
+- History (High School),0.2927,0.0166
+- History (Middle School),0.4187,0.0347
+- History (Primary School),0.4118,0.0490
+- Islamic Studies,0.3537,0.0189
+- Islamic Studies (High School),0.4281,0.0271
+- Islamic Studies (Middle School),0.4748,0.0324
+- Islamic Studies (Primary School),0.6056,0.0155
+- Law (Professional),0.6338,0.0272
+- Philosophy (High School),0.4872,0.0211
+Language,0.4277,0.0120
+- Arabic Language (General),0.5180,0.0220
+- Arabic Language (Grammar),0.3753,0.0254
+- Arabic Language (High School),0.2821,0.0228
+- Arabic Language (Middle School),0.5556,0.0975
+- Arabic Language (Primary School),0.4966,0.0316
+Other,0.4980,0.0099
+- Driving Test,0.5799,0.0142
+- General Knowledge,0.3990,0.0166
+- General Knowledge (Middle School),0.4593,0.0381
+- General Knowledge (Primary School),0.7391,0.0394
+- Management (University),0.6000,0.0569
+Social Science,0.3970,0.0082
+- Accounting (University),0.5135,0.0585
+- Civics (High School),0.3678,0.0520
+- Civics (Middle School),0.3814,0.0317
+- Economics (High School),0.4417,0.0262
+- Economics (Middle School),0.5172,0.0539
+- Economics (University),0.3942,0.0419
+- Geography (High School),0.3160,0.0144
+- Geography (Middle School),0.3824,0.0295
+- Geography (Primary School),0.3860,0.0651
+- Political Science (University),0.3810,0.0336
+- Social Science (Middle School),0.3734,0.0312
+- Social Science (Primary School),0.4950,0.0188
+STEM,0.4811,0.0086
+- Biology (High School),0.3584,0.0128
+- Computer Science (High School),0.4521,0.0309
+- Computer Science (Middle School),0.5185,0.0980
+- Computer Science (Primary School),0.5136,0.0363
+- Computer Science (University),0.4688,0.0629
+- Math (Primary School),0.5501,0.0246
+- Natural Science (Middle School),0.4714,0.0318
+- Natural Science (Primary School),0.4821,0.0273
+- Physics (High School),0.3098,0.0290

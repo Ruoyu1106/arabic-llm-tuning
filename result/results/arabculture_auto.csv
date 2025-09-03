@@ -1,0 +1,6 @@
+Model,Accuracy,Flipped,Calibration_Acc,Choice
+inceptionai/jais-family-6p7b-chat,0.9334,True,0.9300,"(' نعم',' لا')"
+tiiuae/Falcon3-7B-Instruct,0.9888,False,0.9950,"(' نعم',' لا')"
+omarwaleed523/qwen3-8b-arabic-multitask,0.9836,False,0.9850,"(' نعم',' لا')"
+ALLaM-AI/ALLaM-7B-Instruct-preview,0.4779,False,0.5500,"(' نعم',' لا')"
+silma-ai/SILMA-9B-Instruct-v1.0,0.7926,False,0.9050,"(' نعم',' لا')"

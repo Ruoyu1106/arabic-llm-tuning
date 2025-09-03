@@ -1,0 +1,61 @@
+{
+  "model": "inceptionai/jais-family-6p7b-chat",
+  "level": 3,
+  "support": 7286,
+  "accuracy": 0.36755421356025253,
+  "pred_dist": {
+    "1": 4619,
+    "3": 1298,
+    "2": 1369
+  },
+  "confusion_matrix": {
+    "1": {
+      "1": 2090,
+      "3": 672,
+      "2": 842
+    },
+    "2": {
+      "1": 1346,
+      "3": 396,
+      "2": 358
+    },
+    "3": {
+      "1": 1183,
+      "3": 230,
+      "2": 169
+    }
+  },
+  "group_field": "Text_Class",
+  "by_group": {
+    "Foundational": {
+      "n": 2735,
+      "acc": 0.4801
+    },
+    "Specialized": {
+      "n": 2276,
+      "acc": 0.2544
+    },
+    "Advanced": {
+      "n": 2275,
+      "acc": 0.3455
+    }
+  },
+  "by_len": {
+    "short": {
+      "n": 2478,
+      "acc": 0.5157
+    },
+    "medium": {
+      "n": 2400,
+      "acc": 0.3546
+    },
+    "long": {
+      "n": 2408,
+      "acc": 0.228
+    }
+  },
+  "wc_cuts": {
+    "short<= ": 7,
+    "medium<= ": 16
+  }
+}

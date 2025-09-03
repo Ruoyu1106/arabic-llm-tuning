@@ -1,0 +1,61 @@
+{
+  "model": "silma-ai/SILMA-9B-Instruct-v1.0",
+  "level": 3,
+  "support": 7286,
+  "accuracy": 0.5037057370299204,
+  "pred_dist": {
+    "1": 6457,
+    "3": 533,
+    "2": 296
+  },
+  "confusion_matrix": {
+    "1": {
+      "1": 3360,
+      "3": 137,
+      "2": 107
+    },
+    "2": {
+      "1": 1832,
+      "2": 91,
+      "3": 177
+    },
+    "3": {
+      "1": 1265,
+      "2": 98,
+      "3": 219
+    }
+  },
+  "group_field": "Text_Class",
+  "by_group": {
+    "Foundational": {
+      "n": 2735,
+      "acc": 0.6973
+    },
+    "Specialized": {
+      "n": 2276,
+      "acc": 0.3141
+    },
+    "Advanced": {
+      "n": 2275,
+      "acc": 0.4607
+    }
+  },
+  "by_len": {
+    "short": {
+      "n": 2478,
+      "acc": 0.7482
+    },
+    "medium": {
+      "n": 2400,
+      "acc": 0.4617
+    },
+    "long": {
+      "n": 2408,
+      "acc": 0.294
+    }
+  },
+  "wc_cuts": {
+    "short<= ": 7,
+    "medium<= ": 16
+  }
+}

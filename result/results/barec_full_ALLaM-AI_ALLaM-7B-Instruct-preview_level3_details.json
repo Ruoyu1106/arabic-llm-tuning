@@ -1,0 +1,61 @@
+{
+  "model": "ALLaM-AI/ALLaM-7B-Instruct-preview",
+  "level": 3,
+  "support": 7286,
+  "accuracy": 0.4479824320614878,
+  "pred_dist": {
+    "1": 1886,
+    "2": 2911,
+    "3": 2489
+  },
+  "confusion_matrix": {
+    "1": {
+      "1": 1399,
+      "2": 1620,
+      "3": 585
+    },
+    "2": {
+      "1": 377,
+      "2": 842,
+      "3": 881
+    },
+    "3": {
+      "2": 449,
+      "3": 1023,
+      "1": 110
+    }
+  },
+  "group_field": "Text_Class",
+  "by_group": {
+    "Foundational": {
+      "n": 2735,
+      "acc": 0.4442
+    },
+    "Specialized": {
+      "n": 2276,
+      "acc": 0.4644
+    },
+    "Advanced": {
+      "n": 2275,
+      "acc": 0.436
+    }
+  },
+  "by_len": {
+    "short": {
+      "n": 2478,
+      "acc": 0.5391
+    },
+    "medium": {
+      "n": 2400,
+      "acc": 0.3396
+    },
+    "long": {
+      "n": 2408,
+      "acc": 0.4622
+    }
+  },
+  "wc_cuts": {
+    "short<= ": 7,
+    "medium<= ": 16
+  }
+}

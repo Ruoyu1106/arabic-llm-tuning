@@ -1,0 +1,2332 @@
+{
+  "results": {
+    "arabicmmlu": {
+      "acc,none": 0.5619508820477344,
+      "acc_stderr,none": 0.004009585595990427,
+      "alias": "arabicmmlu"
+    },
+    "arabicmmlu_humanities": {
+      "acc,none": 0.5799338478500551,
+      "acc_stderr,none": 0.00784531020192266,
+      "alias": " - Humanities"
+    },
+    "arabicmmlu_history_high_school": {
+      "alias": "  - History (High School)",
+      "acc,none": 0.4631578947368421,
+      "acc_stderr,none": 0.018099514813075614
+    },
+    "arabicmmlu_history_middle_school": {
+      "alias": "  - History (Middle School)",
+      "acc,none": 0.6206896551724138,
+      "acc_stderr,none": 0.034139638059062345
+    },
+    "arabicmmlu_history_primary_school": {
+      "alias": "  - History (Primary School)",
+      "acc,none": 0.6274509803921569,
+      "acc_stderr,none": 0.04810840148082635
+    },
+    "arabicmmlu_islamic_studies": {
+      "alias": "  - Islamic Studies",
+      "acc,none": 0.5539906103286385,
+      "acc_stderr,none": 0.0196794457798273
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "alias": "  - Islamic Studies (High School)",
+      "acc,none": 0.5538922155688623,
+      "acc_stderr,none": 0.027240207712487374
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "alias": "  - Islamic Studies (Middle School)",
+      "acc,none": 0.6764705882352942,
+      "acc_stderr,none": 0.03038835355188679
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "alias": "  - Islamic Studies (Primary School)",
+      "acc,none": 0.7567567567567568,
+      "acc_stderr,none": 0.013581047734799371
+    },
+    "arabicmmlu_law_professional": {
+      "alias": "  - Law (Professional)",
+      "acc,none": 0.267515923566879,
+      "acc_stderr,none": 0.025020831844968366
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "alias": "  - Philosophy (High School)",
+      "acc,none": 0.5641025641025641,
+      "acc_stderr,none": 0.08044135838502685
+    },
+    "arabicmmlu_language": {
+      "acc,none": 0.543134872417983,
+      "acc_stderr,none": 0.01196329268465091,
+      "alias": " - Language"
+    },
+    "arabicmmlu_arabic_language_general": {
+      "alias": "  - Arabic Language (General)",
+      "acc,none": 0.6503267973856209,
+      "acc_stderr,none": 0.019291961895066382
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "alias": "  - Arabic Language (Grammar)",
+      "acc,none": 0.4821917808219178,
+      "acc_stderr,none": 0.02619049337476245
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "alias": "  - Arabic Language (High School)",
+      "acc,none": 0.3717948717948718,
+      "acc_stderr,none": 0.024503472557110936
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "alias": "  - Arabic Language (Middle School)",
+      "acc,none": 0.6666666666666666,
+      "acc_stderr,none": 0.09245003270420483
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "alias": "  - Arabic Language (Primary School)",
+      "acc,none": 0.623015873015873,
+      "acc_stderr,none": 0.030589630236935506
+    },
+    "arabicmmlu_other": {
+      "acc,none": 0.6151368760064412,
+      "acc_stderr,none": 0.009759645841253842,
+      "alias": " - Other"
+    },
+    "arabicmmlu_driving_test": {
+      "alias": "  - Driving Test",
+      "acc,none": 0.620148637489678,
+      "acc_stderr,none": 0.013952822070346645
+    },
+    "arabicmmlu_general_knowledge": {
+      "alias": "  - General Knowledge",
+      "acc,none": 0.5879629629629629,
+      "acc_stderr,none": 0.016754740846761953
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "alias": "  - General Knowledge (Middle School)",
+      "acc,none": 0.6453488372093024,
+      "acc_stderr,none": 0.036584734259385424
+    },
+    "arabicmmlu_general_knowledge_primary_school": {
+      "alias": "  - General Knowledge (Primary School)",
+      "acc,none": 0.6790123456790124,
+      "acc_stderr,none": 0.03679341185411386
+    },
+    "arabicmmlu_management_university": {
+      "alias": "  - Management (University)",
+      "acc,none": 0.64,
+      "acc_stderr,none": 0.05579886659703324
+    },
+    "arabicmmlu_social_science": {
+      "acc,none": 0.5525114155251142,
+      "acc_stderr,none": 0.00823242952073407,
+      "alias": " - Social Science"
+    },
+    "arabicmmlu_accounting_university": {
+      "alias": "  - Accounting (University)",
+      "acc,none": 0.4864864864864865,
+      "acc_stderr,none": 0.0584991962188687
+    },
+    "arabicmmlu_civics_high_school": {
+      "alias": "  - Civics (High School)",
+      "acc,none": 0.4367816091954023,
+      "acc_stderr,none": 0.053483689652870973
+    },
+    "arabicmmlu_civics_middle_school": {
+      "alias": "  - Civics (Middle School)",
+      "acc,none": 0.5,
+      "acc_stderr,none": 0.03261640365267211
+    },
+    "arabicmmlu_economics_high_school": {
+      "alias": "  - Economics (High School)",
+      "acc,none": 0.5388888888888889,
+      "acc_stderr,none": 0.02630905106660132
+    },
+    "arabicmmlu_economics_middle_school": {
+      "alias": "  - Economics (Middle School)",
+      "acc,none": 0.7126436781609196,
+      "acc_stderr,none": 0.04879747731496575
+    },
+    "arabicmmlu_economics_university": {
+      "alias": "  - Economics (University)",
+      "acc,none": 0.48905109489051096,
+      "acc_stderr,none": 0.04286436555449051
+    },
+    "arabicmmlu_geography_high_school": {
+      "alias": "  - Geography (High School)",
+      "acc,none": 0.4576107899807322,
+      "acc_stderr,none": 0.015470853389636045
+    },
+    "arabicmmlu_geography_middle_school": {
+      "alias": "  - Geography (Middle School)",
+      "acc,none": 0.6139705882352942,
+      "acc_stderr,none": 0.029573269134411124
+    },
+    "arabicmmlu_geography_primary_school": {
+      "alias": "  - Geography (Primary School)",
+      "acc,none": 0.631578947368421,
+      "acc_stderr,none": 0.06446025638903097
+    },
+    "arabicmmlu_political_science_university": {
+      "alias": "  - Political Science (University)",
+      "acc,none": 0.5380952380952381,
+      "acc_stderr,none": 0.034485192220162664
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "alias": "  - Social Science (Middle School)",
+      "acc,none": 0.4979253112033195,
+      "acc_stderr,none": 0.03227458337365985
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "alias": "  - Social Science (Primary School)",
+      "acc,none": 0.723404255319149,
+      "acc_stderr,none": 0.016858811203830076
+    },
+    "arabicmmlu_stem": {
+      "acc,none": 0.5202004384591293,
+      "acc_stderr,none": 0.008528088541107101,
+      "alias": " - STEM"
+    },
+    "arabicmmlu_biology_high_school": {
+      "alias": "  - Biology (High School)",
+      "acc,none": 0.42583392476933996,
+      "acc_stderr,none": 0.013177637772992273
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "alias": "  - Computer Science (High School)",
+      "acc,none": 0.5287356321839081,
+      "acc_stderr,none": 0.030957431284003713
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "alias": "  - Computer Science (Middle School)",
+      "acc,none": 0.8148148148148148,
+      "acc_stderr,none": 0.07618086585254093
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "alias": "  - Computer Science (Primary School)",
+      "acc,none": 0.6210526315789474,
+      "acc_stderr,none": 0.03528765094094843
+    },
+    "arabicmmlu_computer_science_university": {
+      "alias": "  - Computer Science (University)",
+      "acc,none": 0.5625,
+      "acc_stderr,none": 0.0625
+    },
+    "arabicmmlu_math_primary_school": {
+      "alias": "  - Math (Primary School)",
+      "acc,none": 0.5158924205378973,
+      "acc_stderr,none": 0.024741181384437986
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "alias": "  - Natural Science (Middle School)",
+      "acc,none": 0.7148760330578512,
+      "acc_stderr,none": 0.029081962470760246
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "alias": "  - Natural Science (Primary School)",
+      "acc,none": 0.7976190476190477,
+      "acc_stderr,none": 0.021951296326887797
+    },
+    "arabicmmlu_physics_high_school": {
+      "alias": "  - Physics (High School)",
+      "acc,none": 0.37254901960784315,
+      "acc_stderr,none": 0.0303364498151987
+    }
+  },
+  "groups": {
+    "arabicmmlu": {
+      "acc,none": 0.5619508820477344,
+      "acc_stderr,none": 0.004009585595990427,
+      "alias": "arabicmmlu"
+    },
+    "arabicmmlu_humanities": {
+      "acc,none": 0.5799338478500551,
+      "acc_stderr,none": 0.00784531020192266,
+      "alias": " - Humanities"
+    },
+    "arabicmmlu_language": {
+      "acc,none": 0.543134872417983,
+      "acc_stderr,none": 0.01196329268465091,
+      "alias": " - Language"
+    },
+    "arabicmmlu_other": {
+      "acc,none": 0.6151368760064412,
+      "acc_stderr,none": 0.009759645841253842,
+      "alias": " - Other"
+    },
+    "arabicmmlu_social_science": {
+      "acc,none": 0.5525114155251142,
+      "acc_stderr,none": 0.00823242952073407,
+      "alias": " - Social Science"
+    },
+    "arabicmmlu_stem": {
+      "acc,none": 0.5202004384591293,
+      "acc_stderr,none": 0.008528088541107101,
+      "alias": " - STEM"
+    }
+  },
+  "group_subtasks": {
+    "arabicmmlu_language": [
+      "arabicmmlu_arabic_language_grammar",
+      "arabicmmlu_arabic_language_general",
+      "arabicmmlu_arabic_language_high_school",
+      "arabicmmlu_arabic_language_middle_school",
+      "arabicmmlu_arabic_language_primary_school"
+    ],
+    "arabicmmlu_stem": [
+      "arabicmmlu_computer_science_university",
+      "arabicmmlu_natural_science_primary_school",
+      "arabicmmlu_computer_science_primary_school",
+      "arabicmmlu_math_primary_school",
+      "arabicmmlu_physics_high_school",
+      "arabicmmlu_biology_high_school",
+      "arabicmmlu_computer_science_high_school",
+      "arabicmmlu_natural_science_middle_school",
+      "arabicmmlu_computer_science_middle_school"
+    ],
+    "arabicmmlu_humanities": [
+      "arabicmmlu_history_middle_school",
+      "arabicmmlu_islamic_studies_middle_school",
+      "arabicmmlu_history_high_school",
+      "arabicmmlu_philosophy_high_school",
+      "arabicmmlu_islamic_studies",
+      "arabicmmlu_history_primary_school",
+      "arabicmmlu_islamic_studies_high_school",
+      "arabicmmlu_islamic_studies_primary_school",
+      "arabicmmlu_law_professional"
+    ],
+    "arabicmmlu_social_science": [
+      "arabicmmlu_civics_middle_school",
+      "arabicmmlu_accounting_university",
+      "arabicmmlu_geography_primary_school",
+      "arabicmmlu_social_science_middle_school",
+      "arabicmmlu_economics_university",
+      "arabicmmlu_economics_middle_school",
+      "arabicmmlu_economics_high_school",
+      "arabicmmlu_social_science_primary_school",
+      "arabicmmlu_civics_high_school",
+      "arabicmmlu_geography_middle_school",
+      "arabicmmlu_geography_high_school",
+      "arabicmmlu_political_science_university"
+    ],
+    "arabicmmlu_other": [
+      "arabicmmlu_general_knowledge_primary_school",
+      "arabicmmlu_management_university",
+      "arabicmmlu_general_knowledge_middle_school",
+      "arabicmmlu_driving_test",
+      "arabicmmlu_general_knowledge"
+    ],
+    "arabicmmlu": [
+      "arabicmmlu_other",
+      "arabicmmlu_social_science",
+      "arabicmmlu_humanities",
+      "arabicmmlu_stem",
+      "arabicmmlu_language"
+    ]
+  },
+  "configs": {
+    "arabicmmlu_accounting_university": {
+      "task": "arabicmmlu_accounting_university",
+      "task_alias": "Accounting (University)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Accounting (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_arabic_language_general": {
+      "task": "arabicmmlu_arabic_language_general",
+      "task_alias": "Arabic Language (General)",
+      "tag": "arabicmmlu_language_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (General)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "task": "arabicmmlu_arabic_language_grammar",
+      "task_alias": "Arabic Language (Grammar)",
+      "tag": "arabicmmlu_language_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (Grammar)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "task": "arabicmmlu_arabic_language_high_school",
+      "task_alias": "Arabic Language (High School)",
+      "tag": "arabicmmlu_language_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "task": "arabicmmlu_arabic_language_middle_school",
+      "task_alias": "Arabic Language (Middle School)",
+      "tag": "arabicmmlu_language_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "task": "arabicmmlu_arabic_language_primary_school",
+      "task_alias": "Arabic Language (Primary School)",
+      "tag": "arabicmmlu_language_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Arabic Language (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_biology_high_school": {
+      "task": "arabicmmlu_biology_high_school",
+      "task_alias": "Biology (High School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Biology (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_civics_high_school": {
+      "task": "arabicmmlu_civics_high_school",
+      "task_alias": "Civics (High School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Civics (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_civics_middle_school": {
+      "task": "arabicmmlu_civics_middle_school",
+      "task_alias": "Civics (Middle School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Civics (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "task": "arabicmmlu_computer_science_high_school",
+      "task_alias": "Computer Science (High School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "task": "arabicmmlu_computer_science_middle_school",
+      "task_alias": "Computer Science (Middle School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "task": "arabicmmlu_computer_science_primary_school",
+      "task_alias": "Computer Science (Primary School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_computer_science_university": {
+      "task": "arabicmmlu_computer_science_university",
+      "task_alias": "Computer Science (University)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Computer Science (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_driving_test": {
+      "task": "arabicmmlu_driving_test",
+      "task_alias": "Driving Test",
+      "tag": "arabicmmlu_other_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Driving Test",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_economics_high_school": {
+      "task": "arabicmmlu_economics_high_school",
+      "task_alias": "Economics (High School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Economics (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_economics_middle_school": {
+      "task": "arabicmmlu_economics_middle_school",
+      "task_alias": "Economics (Middle School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Economics (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_economics_university": {
+      "task": "arabicmmlu_economics_university",
+      "task_alias": "Economics (University)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Economics (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_general_knowledge": {
+      "task": "arabicmmlu_general_knowledge",
+      "task_alias": "General Knowledge",
+      "tag": "arabicmmlu_other_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "General Knowledge",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "task": "arabicmmlu_general_knowledge_middle_school",
+      "task_alias": "General Knowledge (Middle School)",
+      "tag": "arabicmmlu_other_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "General Knowledge (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_general_knowledge_primary_school": {
+      "task": "arabicmmlu_general_knowledge_primary_school",
+      "task_alias": "General Knowledge (Primary School)",
+      "tag": "arabicmmlu_other_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "General Knowledge (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_geography_high_school": {
+      "task": "arabicmmlu_geography_high_school",
+      "task_alias": "Geography (High School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Geography (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_geography_middle_school": {
+      "task": "arabicmmlu_geography_middle_school",
+      "task_alias": "Geography (Middle School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Geography (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_geography_primary_school": {
+      "task": "arabicmmlu_geography_primary_school",
+      "task_alias": "Geography (Primary School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Geography (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_history_high_school": {
+      "task": "arabicmmlu_history_high_school",
+      "task_alias": "History (High School)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "History (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_history_middle_school": {
+      "task": "arabicmmlu_history_middle_school",
+      "task_alias": "History (Middle School)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "History (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_history_primary_school": {
+      "task": "arabicmmlu_history_primary_school",
+      "task_alias": "History (Primary School)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "History (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_islamic_studies": {
+      "task": "arabicmmlu_islamic_studies",
+      "task_alias": "Islamic Studies",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "task": "arabicmmlu_islamic_studies_high_school",
+      "task_alias": "Islamic Studies (High School)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "task": "arabicmmlu_islamic_studies_middle_school",
+      "task_alias": "Islamic Studies (Middle School)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "task": "arabicmmlu_islamic_studies_primary_school",
+      "task_alias": "Islamic Studies (Primary School)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Islamic Studies (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_law_professional": {
+      "task": "arabicmmlu_law_professional",
+      "task_alias": "Law (Professional)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Law (Professional)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_management_university": {
+      "task": "arabicmmlu_management_university",
+      "task_alias": "Management (University)",
+      "tag": "arabicmmlu_other_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Management (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_math_primary_school": {
+      "task": "arabicmmlu_math_primary_school",
+      "task_alias": "Math (Primary School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Math (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "task": "arabicmmlu_natural_science_middle_school",
+      "task_alias": "Natural Science (Middle School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Natural Science (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "task": "arabicmmlu_natural_science_primary_school",
+      "task_alias": "Natural Science (Primary School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Natural Science (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "task": "arabicmmlu_philosophy_high_school",
+      "task_alias": "Philosophy (High School)",
+      "tag": "arabicmmlu_humanities_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Philosophy (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_physics_high_school": {
+      "task": "arabicmmlu_physics_high_school",
+      "task_alias": "Physics (High School)",
+      "tag": "arabicmmlu_stem_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Physics (High School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_political_science_university": {
+      "task": "arabicmmlu_political_science_university",
+      "task_alias": "Political Science (University)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Political Science (University)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "task": "arabicmmlu_social_science_middle_school",
+      "task_alias": "Social Science (Middle School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Social Science (Middle School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "task": "arabicmmlu_social_science_primary_school",
+      "task_alias": "Social Science (Primary School)",
+      "tag": "arabicmmlu_social_science_tasks",
+      "dataset_path": "MBZUAI/ArabicMMLU",
+      "dataset_name": "Social Science (Primary School)",
+      "test_split": "test",
+      "fewshot_split": "dev",
+      "doc_to_text": "def doc_to_text(doc):\n    \"\"\"\n    Refactoring `prepare_data_en` to fit with the lm harness framework.\n    https://github.com/mbzuai-nlp/ArabicMMLU/blob/main/util_prompt.py\n    \"\"\"\n\n    level = \"\" if not doc[\"Level\"] else \" for \" + level_en[doc[\"Level\"]]\n    country = \"\" if not doc[\"Country\"] else \" in \" + doc[\"Country\"]\n    main_meta_data = f\"{doc['Subject']} question{level}{country}\"\n\n    question = (\n        doc[\"Question\"]\n        if not doc[\"Context\"]\n        else f\"{doc['Context']}\\n\\n{doc['Question']}\"\n    )\n\n    options = []\n    for i, opt in enumerate(\n        [\"Option 1\", \"Option 2\", \"Option 3\", \"Option 4\", \"Option 5\"]\n    ):\n        if not doc[opt]:\n            break\n        options.append(f\"{alpa[i]} {doc[opt]}\")\n\n    doc_text = PROMPT.format(main_meta_data, question, \"\\n\".join(options))\n\n    return doc_text\n",
+      "doc_to_target": "Answer Key",
+      "unsafe_code": false,
+      "doc_to_choice": "def doc_to_choice(doc):\n    return [alpa[i][0] for i in range(5) if doc[f\"Option {i + 1}\"]]\n",
+      "description": "",
+      "target_delimiter": " ",
+      "fewshot_delimiter": "\n\n",
+      "fewshot_config": {
+        "sampler": "first_n"
+      },
+      "num_fewshot": 0,
+      "metric_list": [
+        {
+          "metric": "acc",
+          "aggregation": "mean",
+          "higher_is_better": true
+        }
+      ],
+      "output_type": "multiple_choice",
+      "repeats": 1,
+      "should_decontaminate": false,
+      "metadata": {
+        "version": 1.0,
+        "pretrained": "inceptionai/jais-family-6p7b-chat",
+        "trust_remote_code": true,
+        "dtype": "bfloat16",
+        "device_map": "auto",
+        "revision": "main",
+        "use_cache": false
+      }
+    }
+  },
+  "versions": {
+    "arabicmmlu": 1,
+    "arabicmmlu_accounting_university": 1.0,
+    "arabicmmlu_arabic_language_general": 1.0,
+    "arabicmmlu_arabic_language_grammar": 1.0,
+    "arabicmmlu_arabic_language_high_school": 1.0,
+    "arabicmmlu_arabic_language_middle_school": 1.0,
+    "arabicmmlu_arabic_language_primary_school": 1.0,
+    "arabicmmlu_biology_high_school": 1.0,
+    "arabicmmlu_civics_high_school": 1.0,
+    "arabicmmlu_civics_middle_school": 1.0,
+    "arabicmmlu_computer_science_high_school": 1.0,
+    "arabicmmlu_computer_science_middle_school": 1.0,
+    "arabicmmlu_computer_science_primary_school": 1.0,
+    "arabicmmlu_computer_science_university": 1.0,
+    "arabicmmlu_driving_test": 1.0,
+    "arabicmmlu_economics_high_school": 1.0,
+    "arabicmmlu_economics_middle_school": 1.0,
+    "arabicmmlu_economics_university": 1.0,
+    "arabicmmlu_general_knowledge": 1.0,
+    "arabicmmlu_general_knowledge_middle_school": 1.0,
+    "arabicmmlu_general_knowledge_primary_school": 1.0,
+    "arabicmmlu_geography_high_school": 1.0,
+    "arabicmmlu_geography_middle_school": 1.0,
+    "arabicmmlu_geography_primary_school": 1.0,
+    "arabicmmlu_history_high_school": 1.0,
+    "arabicmmlu_history_middle_school": 1.0,
+    "arabicmmlu_history_primary_school": 1.0,
+    "arabicmmlu_humanities": 1,
+    "arabicmmlu_islamic_studies": 1.0,
+    "arabicmmlu_islamic_studies_high_school": 1.0,
+    "arabicmmlu_islamic_studies_middle_school": 1.0,
+    "arabicmmlu_islamic_studies_primary_school": 1.0,
+    "arabicmmlu_language": 1,
+    "arabicmmlu_law_professional": 1.0,
+    "arabicmmlu_management_university": 1.0,
+    "arabicmmlu_math_primary_school": 1.0,
+    "arabicmmlu_natural_science_middle_school": 1.0,
+    "arabicmmlu_natural_science_primary_school": 1.0,
+    "arabicmmlu_other": 1,
+    "arabicmmlu_philosophy_high_school": 1.0,
+    "arabicmmlu_physics_high_school": 1.0,
+    "arabicmmlu_political_science_university": 1.0,
+    "arabicmmlu_social_science": 1,
+    "arabicmmlu_social_science_middle_school": 1.0,
+    "arabicmmlu_social_science_primary_school": 1.0,
+    "arabicmmlu_stem": 1
+  },
+  "n-shot": {
+    "arabicmmlu_accounting_university": 0,
+    "arabicmmlu_arabic_language_general": 0,
+    "arabicmmlu_arabic_language_grammar": 0,
+    "arabicmmlu_arabic_language_high_school": 0,
+    "arabicmmlu_arabic_language_middle_school": 0,
+    "arabicmmlu_arabic_language_primary_school": 0,
+    "arabicmmlu_biology_high_school": 0,
+    "arabicmmlu_civics_high_school": 0,
+    "arabicmmlu_civics_middle_school": 0,
+    "arabicmmlu_computer_science_high_school": 0,
+    "arabicmmlu_computer_science_middle_school": 0,
+    "arabicmmlu_computer_science_primary_school": 0,
+    "arabicmmlu_computer_science_university": 0,
+    "arabicmmlu_driving_test": 0,
+    "arabicmmlu_economics_high_school": 0,
+    "arabicmmlu_economics_middle_school": 0,
+    "arabicmmlu_economics_university": 0,
+    "arabicmmlu_general_knowledge": 0,
+    "arabicmmlu_general_knowledge_middle_school": 0,
+    "arabicmmlu_general_knowledge_primary_school": 0,
+    "arabicmmlu_geography_high_school": 0,
+    "arabicmmlu_geography_middle_school": 0,
+    "arabicmmlu_geography_primary_school": 0,
+    "arabicmmlu_history_high_school": 0,
+    "arabicmmlu_history_middle_school": 0,
+    "arabicmmlu_history_primary_school": 0,
+    "arabicmmlu_islamic_studies": 0,
+    "arabicmmlu_islamic_studies_high_school": 0,
+    "arabicmmlu_islamic_studies_middle_school": 0,
+    "arabicmmlu_islamic_studies_primary_school": 0,
+    "arabicmmlu_law_professional": 0,
+    "arabicmmlu_management_university": 0,
+    "arabicmmlu_math_primary_school": 0,
+    "arabicmmlu_natural_science_middle_school": 0,
+    "arabicmmlu_natural_science_primary_school": 0,
+    "arabicmmlu_philosophy_high_school": 0,
+    "arabicmmlu_physics_high_school": 0,
+    "arabicmmlu_political_science_university": 0,
+    "arabicmmlu_social_science_middle_school": 0,
+    "arabicmmlu_social_science_primary_school": 0
+  },
+  "higher_is_better": {
+    "arabicmmlu": {
+      "acc": true
+    },
+    "arabicmmlu_accounting_university": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_general": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_biology_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_civics_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_civics_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_computer_science_university": {
+      "acc": true
+    },
+    "arabicmmlu_driving_test": {
+      "acc": true
+    },
+    "arabicmmlu_economics_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_economics_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_economics_university": {
+      "acc": true
+    },
+    "arabicmmlu_general_knowledge": {
+      "acc": true
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_general_knowledge_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_geography_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_geography_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_geography_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_history_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_history_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_history_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_humanities": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_language": {
+      "acc": true
+    },
+    "arabicmmlu_law_professional": {
+      "acc": true
+    },
+    "arabicmmlu_management_university": {
+      "acc": true
+    },
+    "arabicmmlu_math_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_other": {
+      "acc": true
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_physics_high_school": {
+      "acc": true
+    },
+    "arabicmmlu_political_science_university": {
+      "acc": true
+    },
+    "arabicmmlu_social_science": {
+      "acc": true
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "acc": true
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "acc": true
+    },
+    "arabicmmlu_stem": {
+      "acc": true
+    }
+  },
+  "n-samples": {
+    "arabicmmlu_general_knowledge_primary_school": {
+      "original": 162,
+      "effective": 162
+    },
+    "arabicmmlu_management_university": {
+      "original": 75,
+      "effective": 75
+    },
+    "arabicmmlu_general_knowledge_middle_school": {
+      "original": 172,
+      "effective": 172
+    },
+    "arabicmmlu_driving_test": {
+      "original": 1211,
+      "effective": 1211
+    },
+    "arabicmmlu_general_knowledge": {
+      "original": 864,
+      "effective": 864
+    },
+    "arabicmmlu_civics_middle_school": {
+      "original": 236,
+      "effective": 236
+    },
+    "arabicmmlu_accounting_university": {
+      "original": 74,
+      "effective": 74
+    },
+    "arabicmmlu_geography_primary_school": {
+      "original": 57,
+      "effective": 57
+    },
+    "arabicmmlu_social_science_middle_school": {
+      "original": 241,
+      "effective": 241
+    },
+    "arabicmmlu_economics_university": {
+      "original": 137,
+      "effective": 137
+    },
+    "arabicmmlu_economics_middle_school": {
+      "original": 87,
+      "effective": 87
+    },
+    "arabicmmlu_economics_high_school": {
+      "original": 360,
+      "effective": 360
+    },
+    "arabicmmlu_social_science_primary_school": {
+      "original": 705,
+      "effective": 705
+    },
+    "arabicmmlu_civics_high_school": {
+      "original": 87,
+      "effective": 87
+    },
+    "arabicmmlu_geography_middle_school": {
+      "original": 272,
+      "effective": 272
+    },
+    "arabicmmlu_geography_high_school": {
+      "original": 1038,
+      "effective": 1038
+    },
+    "arabicmmlu_political_science_university": {
+      "original": 210,
+      "effective": 210
+    },
+    "arabicmmlu_history_middle_school": {
+      "original": 203,
+      "effective": 203
+    },
+    "arabicmmlu_islamic_studies_middle_school": {
+      "original": 238,
+      "effective": 238
+    },
+    "arabicmmlu_history_high_school": {
+      "original": 760,
+      "effective": 760
+    },
+    "arabicmmlu_philosophy_high_school": {
+      "original": 39,
+      "effective": 39
+    },
+    "arabicmmlu_islamic_studies": {
+      "original": 639,
+      "effective": 639
+    },
+    "arabicmmlu_history_primary_school": {
+      "original": 102,
+      "effective": 102
+    },
+    "arabicmmlu_islamic_studies_high_school": {
+      "original": 334,
+      "effective": 334
+    },
+    "arabicmmlu_islamic_studies_primary_school": {
+      "original": 999,
+      "effective": 999
+    },
+    "arabicmmlu_law_professional": {
+      "original": 314,
+      "effective": 314
+    },
+    "arabicmmlu_computer_science_university": {
+      "original": 64,
+      "effective": 64
+    },
+    "arabicmmlu_natural_science_primary_school": {
+      "original": 336,
+      "effective": 336
+    },
+    "arabicmmlu_computer_science_primary_school": {
+      "original": 190,
+      "effective": 190
+    },
+    "arabicmmlu_math_primary_school": {
+      "original": 409,
+      "effective": 409
+    },
+    "arabicmmlu_physics_high_school": {
+      "original": 255,
+      "effective": 255
+    },
+    "arabicmmlu_biology_high_school": {
+      "original": 1409,
+      "effective": 1409
+    },
+    "arabicmmlu_computer_science_high_school": {
+      "original": 261,
+      "effective": 261
+    },
+    "arabicmmlu_natural_science_middle_school": {
+      "original": 242,
+      "effective": 242
+    },
+    "arabicmmlu_computer_science_middle_school": {
+      "original": 27,
+      "effective": 27
+    },
+    "arabicmmlu_arabic_language_grammar": {
+      "original": 365,
+      "effective": 365
+    },
+    "arabicmmlu_arabic_language_general": {
+      "original": 612,
+      "effective": 612
+    },
+    "arabicmmlu_arabic_language_high_school": {
+      "original": 390,
+      "effective": 390
+    },
+    "arabicmmlu_arabic_language_middle_school": {
+      "original": 27,
+      "effective": 27
+    },
+    "arabicmmlu_arabic_language_primary_school": {
+      "original": 252,
+      "effective": 252
+    }
+  },
+  "config": {
+    "model": "hf",
+    "model_args": "pretrained=inceptionai/jais-family-6p7b-chat,trust_remote_code=True,dtype=bfloat16,device_map=auto,revision=main,use_cache=False",
+    "model_num_parameters": 6794562592,
+    "model_dtype": "torch.bfloat16",
+    "model_revision": "main",
+    "model_sha": "683805efe6126c6536feb4aa23317e70222ac94c",
+    "batch_size": "auto",
+    "batch_sizes": [
+      64
+    ],
+    "device": null,
+    "use_cache": null,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "gen_kwargs": null,
+    "random_seed": 0,
+    "numpy_seed": 1234,
+    "torch_seed": 1234,
+    "fewshot_seed": 1234
+  },
+  "git_hash": "2d7cb5c3",
+  "date": 1756857622.5104668,
+  "pretty_env_info": "PyTorch version: 2.5.1+cu121\nIs debug build: False\nCUDA used to build PyTorch: 12.1\nROCM used to build PyTorch: N/A\n\nOS: Ubuntu 22.04.5 LTS (x86_64)\nGCC version: (Ubuntu 11.4.0-1ubuntu1~22.04.2) 11.4.0\nClang version: Could not collect\nCMake version: Could not collect\nLibc version: glibc-2.35\n\nPython version: 3.10.12 (main, Aug 15 2025, 14:32:43) [GCC 11.4.0] (64-bit runtime)\nPython platform: Linux-5.15.0-153-generic-x86_64-with-glibc2.35\nIs CUDA available: True\nCUDA runtime version: 12.6.85\nCUDA_MODULE_LOADING set to: LAZY\nGPU models and configuration: GPU 0: NVIDIA A100-SXM4-80GB\nNvidia driver version: 580.65.06\ncuDNN version: Could not collect\nHIP runtime version: N/A\nMIOpen runtime version: N/A\nIs XNNPACK available: True\n\nCPU:\nArchitecture:                            x86_64\nCPU op-mode(s):                          32-bit, 64-bit\nAddress sizes:                           48 bits physical, 48 bits virtual\nByte Order:                              Little Endian\nCPU(s):                                  22\nOn-line CPU(s) list:                     0-21\nVendor ID:                               AuthenticAMD\nModel name:                              AMD EPYC 7642 48-Core Processor\nCPU family:                              23\nModel:                                   49\nThread(s) per core:                      1\nCore(s) per socket:                      1\nSocket(s):                               22\nStepping:                                0\nBogoMIPS:                                4599.99\nFlags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm rep_good nopl cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy svm cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw perfctr_core ssbd ibrs ibpb stibp vmmcall fsgsbase tsc_adjust bmi1 avx2 smep bmi2 rdseed adx smap clflushopt clwb sha_ni xsaveopt xsavec xgetbv1 clzero xsaveerptr wbnoinvd arat npt nrip_save umip rdpid arch_capabilities\nVirtualization:                          AMD-V\nHypervisor vendor:                       KVM\nVirtualization type:                     full\nL1d cache:                               1.4 MiB (22 instances)\nL1i cache:                               1.4 MiB (22 instances)\nL2 cache:                                11 MiB (22 instances)\nL3 cache:                                352 MiB (22 instances)\nNUMA node(s):                            1\nNUMA node0 CPU(s):                       0-21\nVulnerability Gather data sampling:      Not affected\nVulnerability Indirect target selection: Not affected\nVulnerability Itlb multihit:             Not affected\nVulnerability L1tf:                      Not affected\nVulnerability Mds:                       Not affected\nVulnerability Meltdown:                  Not affected\nVulnerability Mmio stale data:           Not affected\nVulnerability Reg file data sampling:    Not affected\nVulnerability Retbleed:                  Mitigation; untrained return thunk; SMT disabled\nVulnerability Spec rstack overflow:      Mitigation; SMT disabled\nVulnerability Spec store bypass:         Mitigation; Speculative Store Bypass disabled via prctl and seccomp\nVulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization\nVulnerability Spectre v2:                Mitigation; Retpolines; IBPB disabled; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected\nVulnerability Srbds:                     Not affected\nVulnerability Tsx async abort:           Not affected\n\nVersions of relevant libraries:\n[pip3] numpy==2.2.6\n[pip3] torch==2.5.1+cu121\n[pip3] triton==3.1.0\n[conda] Could not collect",
+  "transformers_version": "4.56.0",
+  "lm_eval_version": "0.4.9.1",
+  "upper_git_hash": null,
+  "tokenizer_pad_token": [
+    "<|endoftext|>",
+    "0"
+  ],
+  "tokenizer_eos_token": [
+    "<|endoftext|>",
+    "0"
+  ],
+  "tokenizer_bos_token": [
+    "<|endoftext|>",
+    "0"
+  ],
+  "eot_token_id": 0,
+  "max_length": 2048,
+  "task_hashes": {},
+  "model_source": "hf",
+  "model_name": "inceptionai/jais-family-6p7b-chat",
+  "model_name_sanitized": "inceptionai__jais-family-6p7b-chat",
+  "system_instruction": null,
+  "system_instruction_sha": null,
+  "fewshot_as_multiturn": false,
+  "chat_template": null,
+  "chat_template_sha": null,
+  "start_time": 2776.915753756,
+  "end_time": 3125.177465729,
+  "total_evaluation_time_seconds": "348.2617119729998"
+}

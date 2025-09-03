@@ -1,0 +1,73 @@
+{
+  "total": 200,
+  "models": [
+    {
+      "model": "tiiuae/Falcon3-7B-Instruct",
+      "best_accuracy": 0.99,
+      "best_setting": "sah_khata",
+      "flipped": true,
+      "detail": [
+        {
+          "setting": "space_true_false",
+          "flipped": false,
+          "accuracy": 0.98
+        },
+        {
+          "setting": "space_true_false",
+          "flipped": true,
+          "accuracy": 0.020000000000000018
+        },
+        {
+          "setting": "no_space_true_false",
+          "flipped": false,
+          "accuracy": 0.975
+        },
+        {
+          "setting": "no_space_true_false",
+          "flipped": true,
+          "accuracy": 0.025000000000000022
+        },
+        {
+          "setting": "space_sah_khata",
+          "flipped": false,
+          "accuracy": 0.02
+        },
+        {
+          "setting": "space_sah_khata",
+          "flipped": true,
+          "accuracy": 0.98
+        },
+        {
+          "setting": "sah_khata",
+          "flipped": false,
+          "accuracy": 0.01
+        },
+        {
+          "setting": "sah_khata",
+          "flipped": true,
+          "accuracy": 0.99
+        },
+        {
+          "setting": "naam_laa_space",
+          "flipped": false,
+          "accuracy": 0.99
+        },
+        {
+          "setting": "naam_laa_space",
+          "flipped": true,
+          "accuracy": 0.010000000000000009
+        },
+        {
+          "setting": "naam_laa",
+          "flipped": false,
+          "accuracy": 0.975
+        },
+        {
+          "setting": "naam_laa",
+          "flipped": true,
+          "accuracy": 0.025000000000000022
+        }
+      ]
+    }
+  ]
+}

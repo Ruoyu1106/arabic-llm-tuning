@@ -1,0 +1,22 @@
+[
+  {
+    "model": "inceptionai/jais-family-6p7b-chat",
+    "accuracy": 0.3423
+  },
+  {
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "accuracy": 0.3524
+  },
+  {
+    "model": "omarwaleed523/qwen3-8b-arabic-multitask",
+    "accuracy": 0.3403
+  },
+  {
+    "model": "ALLaM-AI/ALLaM-7B-Instruct-preview",
+    "accuracy": 0.3306
+  },
+  {
+    "model": "silma-ai/SILMA-9B-Instruct-v1.0",
+    "accuracy": 0.3369
+  }
+]

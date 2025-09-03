@@ -1,0 +1,61 @@
+# Qwen3-8B-Arabic-Multitask - ArabicMMLU (0-shot)
+
+| Tasks | Version | Filter | n-shot | Metric | Value | Stderr |
+|-------|---------|--------|--------|--------|-------|--------|
+| arabicmmlu | 1 | none | 0 | acc | 0.6428 | ±0.0039 |
+| - Humanities | 1 | none | 0 | acc | 0.6249 | ±0.0077 |
+| - History (High School) | 1 | none | 0 | acc | 0.4737 | ±0.0181 |
+| - History (Middle School) | 1 | none | 0 | acc | 0.6185 | ±0.0342 |
+| - History (Primary School) | 1 | none | 0 | acc | 0.5980 | ±0.0488 |
+| - Islamic Studies | 1 | none | 0 | acc | 0.4460 | ±0.0197 |
+| - Islamic Studies (High School) | 1 | none | 0 | acc | 0.7106 | ±0.0246 |
+| - Islamic Studies (Middle School) | 1 | none | 0 | acc | 0.6975 | ±0.0298 |
+| - Islamic Studies (Primary School) | 1 | none | 0 | acc | 0.7698 | ±0.0133 |
+| - Law (Professional) | 1 | none | 0 | acc | 0.7484 | ±0.0245 |
+| - Philosophy (High School) | 1 | none | 0 | acc | 0.6667 | ±0.0765 |
+| - Language | 1 | none | 0 | acc | 0.6306 | ±0.0114 |
+| - Arabic Language (General) | 1 | none | 0 | acc | 0.7402 | ±0.0177 |
+| - Arabic Language (Grammar) | 1 | none | 0 | acc | 0.6767 | ±0.0245 |
+| - Arabic Language (High School) | 1 | none | 0 | acc | 0.3923 | ±0.0248 |
+| - Arabic Language (Middle School) | 1 | none | 0 | acc | 0.6667 | ±0.0925 |
+| - Arabic Language (Primary School) | 1 | none | 0 | acc | 0.6627 | ±0.0892 |
+| - Other | 1 | none | 0 | acc | 0.6908 | ±0.0092 |
+| - Driving Test | 1 | none | 0 | acc | 0.7448 | ±0.0125 |
+| - General Knowledge | 1 | none | 0 | acc | 0.5926 | ±0.0167 |
+| - General Knowledge (Middle School) | 1 | none | 0 | acc | 0.7326 | ±0.0338 |
+| - General Knowledge (Primary School) | 1 | none | 0 | acc | 0.7346 | ±0.0348 |
+| - Management (University) | 1 | none | 0 | acc | 0.7600 | ±0.0496 |
+| - Social Science | 1 | none | 0 | acc | 0.6204 | ±0.0082 |
+| - Accounting (University) | 1 | none | 0 | acc | 0.7432 | ±0.0511 |
+| - Civics (High School) | 1 | none | 0 | acc | 0.4943 | ±0.0539 |
+| - Civics (Middle School) | 1 | none | 0 | acc | 0.5676 | ±0.0232 |
+| - Economics (High School) | 1 | none | 0 | acc | 0.6361 | ±0.0254 |
+| - Economics (Middle School) | 1 | none | 0 | acc | 0.8391 | ±0.0396 |
+| - Economics (University) | 1 | none | 0 | acc | 0.5474 | ±0.0427 |
+| - Geography (High School) | 1 | none | 0 | acc | 0.5154 | ±0.0155 |
+| - Geography (Middle School) | 1 | none | 0 | acc | 0.6275 | ±0.0282 |
+| - Geography (Primary School) | 1 | none | 0 | acc | 0.7719 | ±0.0561 |
+| - Political Science (University) | 1 | none | 0 | acc | 0.6429 | ±0.0331 |
+| - Social Science (Middle School) | 1 | none | 0 | acc | 0.4938 | ±0.0323 |
+| - Social Science (Primary School) | 1 | none | 0 | acc | 0.7703 | ±0.0158 |
+| - STEM | 1 | none | 0 | acc | 0.6567 | ±0.0081 |
+| - Biology (High School) | 1 | none | 0 | acc | 0.5338 | ±0.0133 |
+| - Computer Science (High School) | 1 | none | 0 | acc | 0.6851 | ±0.0288 |
+| - Computer Science (Middle School) | 1 | none | 0 | acc | 0.8519 | ±0.0697 |
+| - Computer Science (Primary School) | 1 | none | 0 | acc | 0.7895 | ±0.0297 |
+| - Computer Science (University) | 1 | none | 0 | acc | 0.4688 | ±0.0629 |
+| - Math (Primary School) | 1 | none | 0 | acc | 0.7531 | ±0.0231 |
+| - Natural Science (Middle School) | 1 | none | 0 | acc | 0.8306 | ±0.0242 |
+| - Natural Science (Primary School) | 1 | none | 0 | acc | 0.8661 | ±0.0186 |
+| - Physics (High School) | 1 | none | 0 | acc | 0.5804 | ±0.0310 |
+
+## Grouped Results
+
+| Groups | Version | Filter | n-shot | Metric | Value | Stderr |
+|--------|---------|--------|--------|--------|-------|--------|
+| arabicmmlu | 1 | none | 0 | acc | 0.6428 | ±0.0039 |
+| - Humanities | 1 | none | 0 | acc | 0.6249 | ±0.0077 |
+| - Language | 1 | none | 0 | acc | 0.6306 | ±0.0114 |
+| - Other | 1 | none | 0 | acc | 0.6908 | ±0.0092 |
+| - Social Science | 1 | none | 0 | acc | 0.6204 | ±0.0082 |
+| - STEM | 1 | none | 0 | acc | 0.6567 | ±0.0081 |
