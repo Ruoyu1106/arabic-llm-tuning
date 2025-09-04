@@ -1,0 +1,67 @@
+[
+  {
+    "model": "inceptionai/jais-family-6p7b-chat",
+    "dataset": "flores:devtest",
+    "direction": "eng_Latn->arb_Arab",
+    "bleu": 3.0933693776668316,
+    "chrf": 16.471580882844698,
+    "speed_sps": 1.2396379260464163,
+    "batch_size": 64,
+    "max_new_tokens": 96,
+    "num_beams": 1,
+    "dtype": "bfloat16",
+    "jais_no_cache": true
+  },
+  {
+    "model": "tiiuae/Falcon3-7B-Instruct",
+    "dataset": "flores:devtest",
+    "direction": "eng_Latn->arb_Arab",
+    "bleu": 1.3948804505026995,
+    "chrf": 21.32241610696321,
+    "speed_sps": 19.47341945070242,
+    "batch_size": 64,
+    "max_new_tokens": 96,
+    "num_beams": 1,
+    "dtype": "bfloat16",
+    "jais_no_cache": false
+  },
+  {
+    "model": "Qwen/Qwen2.5-7B-Instruct",
+    "dataset": "flores:devtest",
+    "direction": "eng_Latn->arb_Arab",
+    "bleu": 5.302691365999613,
+    "chrf": 34.3538408358159,
+    "speed_sps": 19.416560486245217,
+    "batch_size": 64,
+    "max_new_tokens": 96,
+    "num_beams": 1,
+    "dtype": "bfloat16",
+    "jais_no_cache": false
+  },
+  {
+    "model": "ALLaM-AI/ALLaM-7B-Instruct-preview",
+    "dataset": "flores:devtest",
+    "direction": "eng_Latn->arb_Arab",
+    "bleu": 20.633502038886764,
+    "chrf": 49.0553732984085,
+    "speed_sps": 15.774004642318289,
+    "batch_size": 64,
+    "max_new_tokens": 96,
+    "num_beams": 1,
+    "dtype": "bfloat16",
+    "jais_no_cache": false
+  },
+  {
+    "model": "silma-ai/SILMA-9B-Instruct-v1.0",
+    "dataset": "flores:devtest",
+    "direction": "eng_Latn->arb_Arab",
+    "bleu": 8.551135440972114,
+    "chrf": 30.697627288819383,
+    "speed_sps": 13.907701969945252,
+    "batch_size": 64,
+    "max_new_tokens": 96,
+    "num_beams": 1,
+    "dtype": "bfloat16",
+    "jais_no_cache": false
+  }
+]
